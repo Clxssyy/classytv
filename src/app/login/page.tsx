@@ -14,14 +14,14 @@ const Login = () => {
               name=''
               id=''
               placeholder='Username'
-              className='p-1 rounded focus:outline-green-500 focus:outline focus:outline-4'
+              className='p-1 rounded focus:outline-green-500 focus:outline focus:outline-4 text-black'
             />
             <input
-              type='text'
+              type='password'
               name=''
               id=''
               placeholder='Password'
-              className='p-1 rounded focus:outline-green-500 focus:outline focus:outline-4'
+              className='p-1 rounded focus:outline-green-500 focus:outline focus:outline-4 text-black'
             />
           </div>
         </div>

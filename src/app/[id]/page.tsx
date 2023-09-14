@@ -11,7 +11,7 @@ const Channel = ({ params }: { params: { id: string } }) => {
         <div className='flex justify-center bg-black grow'>
           <div className='flex justify-center w-full'>
             <iframe
-              src='https://www.youtube.com/embed/HwtyqN-ZCtQ'
+              src='https://www.youtube.com/embed/NpEaa2P7qZI?si=89hg_8IiWaNyBajp'
               title='YouTube video player'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
               className='aspect-video'
